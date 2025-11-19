@@ -164,5 +164,3 @@ Skip these — not used in DA interviews:
 * Matrix (full chapter — optional)
 
 ---
-
-Just tell me!
